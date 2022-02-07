@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="China",扬州交通广播
+http://ls.qingting.fm/live/2804.m3u8
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="China",扬州新闻广播
+http://ls.qingting.fm/live/5000.m3u8?aac
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="China",扬州江都广播
+http://ls.qingting.fm/live/4312411.m3u8
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="China",扬州流行音乐广播
+http://ls.qingting.fm/live/2805.m3u8
